@@ -3,11 +3,10 @@ hspace {
 }
 
 body {
-  background: #232d37;
+  background: #black;
   font-family: "Montserrat";
   margin: 0 auto;
   height: 2500px;
-  color: white;
 }
 
 #content {
