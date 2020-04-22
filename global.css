@@ -3,7 +3,11 @@ hspace {
 }
 
 body {
+<<<<<<< Updated upstream
+  background: darkgrey;
+=======
   background: black;
+>>>>>>> Stashed changes
   font-family: "Montserrat";
   margin: 0 auto;
   height: 2500px;
